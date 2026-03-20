@@ -1,6 +1,6 @@
 # actions-runner
 
-GitHub Actions runner and images based on Podman.
+GitHub Actions runner based on Podman.
 
 ## Podman 5.x
 
