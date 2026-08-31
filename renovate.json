@@ -14,6 +14,11 @@
         "github-releases"
       ],
       "automerge": true
+    },
+    {
+      "description": "Pin GitHub Actions to full commit SHA",
+      "matchDepTypes": ["action"],
+      "pinDigests": true
     }
   ],
   "customManagers": [
